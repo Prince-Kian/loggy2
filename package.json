@@ -12,9 +12,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
   "engines": {
-  "node": "11.x",
+  "node": "10.15.0",
   "npm": "*"
   },
   "scripts": {
